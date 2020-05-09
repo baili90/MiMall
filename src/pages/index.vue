@@ -127,7 +127,7 @@
           },
           pagination: {
             el: '.swiper-pagination',
-            clickable:true
+            clickable:true //点击切换分页
           },
           navigation: {
             nextEl: '.swiper-button-next',
